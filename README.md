@@ -1,4 +1,4 @@
-# lat_sharedpreferences
+# shared_preferences
 
 A new Flutter project.
 
